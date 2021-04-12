@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'comentarios',
     'avaliacoes',
     'enderecos',
+    'django_filters',
 ]
 
 MIDDLEWARE = [
